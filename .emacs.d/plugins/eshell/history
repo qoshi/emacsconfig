@@ -1,0 +1,79 @@
+ls
+brew
+ls -al
+cd ~/Desktop/
+ls
+cd chaitin/
+ls
+cd git2go/
+grep -r fun
+cat * | grep func
+brew
+which ls
+which brew
+python
+which python
+brew
+ruby
+ls
+brew
+brew
+export
+ls
+brew
+git log
+git branch
+ls
+cd server/
+ls
+emacs strapdown-server.go 
+ls
+cd Users/lulala/
+ls
+cd Desktop/
+ls
+cd chaitin/
+l
+ls
+cd demo/
+ls
+cd strapdown
+cd ..
+cd strapdown/
+ls
+cd server/
+ls
+cat -n 20 strapdown-server.go 
+grep -n 20 strapdown-server.go 
+man grep
+info grep | grep path
+info grep
+top grep
+man grep | grep path
+man grep
+man grep
+ls
+cd ..
+cp server ~/Desktop/test
+cp -r server ~/Desktop/test
+cd ~/Desktop/test/]
+cd ~/Desktop/test/
+ls
+cd 
+cd Desktop/test
+cd ..
+cd chaitin/
+ls
+cd strapdown/
+cd server/
+ls
+brew
+brew
+brew
+go
+brew
+brew
+brew
+brew
+go
+git

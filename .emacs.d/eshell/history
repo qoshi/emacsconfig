@@ -1,0 +1,128 @@
+cd gpx-db7f10d297/
+cd ..
+cd gpx
+ls
+go run main.go
+go get
+cp ./gpx/dbfreader/dbfgo.go ./
+ls
+go run main.go dbfgo.go 
+ls
+ls
+mongo
+go run main.go oracle.go 
+go run main.go dbfgo.go 
+mongo
+go run server.go 
+go run server.go oracle.go 
+go run server.go oracle.go 
+go run server.go oracle.go 
+go run server.go oracle.go 
+go run server.go oracle.go 
+go run server.go oracle.go 
+go run server.go oracle.go 
+go run server.go oracle.go 
+go run server.go oracle.go 
+go run server.go oracle.go 
+go run server.go oracle.go 
+go run server.go oracle.go 
+go run server.go oracle.go 
+go run server.go oracle.go 
+go run server.go oracle.go 
+go run server.go oracle.go 
+go run server.go oracle.go 
+go run server.go oracle.go
+go run server.go oracle.go
+go run server.go oracle.go
+go run server.go oracle.go
+go run server.go oracle.go 
+go run server.go oracle.go 
+go run server.go oracle.go 
+go run server.go oracle.go 
+mongo
+go run server.go oracle.go 
+go run server.go oracle.go 
+go run server.go oracle.go 
+go run server.go oracle.go 
+go run server.go oracle.go 
+cd ..
+cd ztCTP/
+l
+ls
+ls
+cd include/
+ls
+cd ..
+cp /root/zt/CTP/ctpTest/utils.* ./
+g++ -o sb test.cpp
+grep DBMarketDataField
+g++ -o sb test.cpp MdSpi.cpp utils.cpp 
+g++ -o sb test.cpp MdSpi.cpp utils.cpp 
+g++ -o sb test.cpp MdSpi.cpp
+g++ -o sb test.cpp MdSpi.cpp
+cd ~/Desktop/chaitin/gpx/
+mkdir mongo
+cd mongo
+ls
+ls
+cd /
+ls
+cd tmp/
+ls
+cd mongo-cxx-driver/
+ls
+cd etc
+ls
+cd doxygen/
+ls
+cd ..
+cd ..
+find ./ -name "*.cpp"
+ls
+cd ~/Desktop/
+ls
+cd ~/Desktop/chaitin/gpx/
+ls
+cd mongo/
+l
+ls
+cd Desktop/
+ls
+mkdir php
+cd php
+ls
+cd ~/Sites/
+ls
+mkdir php
+cd php
+echo "<?php phpinfo(); ?>" > a.php
+cat a.php 
+ls
+ls
+cd Desktop/
+cd chaitin/
+ls
+cd strapdown/
+ls
+cd server/
+ls
+ls
+cd work/
+ls
+cd linkedin/
+mkdir go
+echo $GO_PATH
+ls
+cd go
+go run test.go
+go run test.go 
+cd work/
+ls
+cd linkedin/
+cd go
+ls
+echo $GOPATH
+echo $GOPATH
+echo $PATH
+go
+ls
