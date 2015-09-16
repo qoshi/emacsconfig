@@ -206,8 +206,8 @@
 ;; auto complete
 (ac-config-default)
 (auto-complete-mode t)
-;; disable tool bar
-(autopair-global-mode)
+;;auto pair
+(autopair-global-mode t)
 
 ( if (display-graphic-p)
     ;; set linum open
@@ -215,8 +215,9 @@
       (global-linum-mode t)
       (tool-bar-mode 0)
     )
+  (progn
+   )
 )
-
 
 
 ;; custome things of emacs
