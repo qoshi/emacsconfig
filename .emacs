@@ -31,7 +31,8 @@
       (el-get 'sync)
       )
   ;; commond-line
-
+  (progn
+   )
   )
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
@@ -58,7 +59,8 @@
       (require 'yasnippet)
      )
   ;; command line
-
+  (progn
+   )
     )
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -103,7 +105,6 @@
       )
   ;; command line
   (progn
-   
     )
   )
 
@@ -152,7 +153,6 @@
   (setq gofmt-command "goimports")
   ;; Call Gofmt before saving
   (add-hook 'before-save-hook 'gofmt-before-save)
-  (add-hook 'after-save-hook 'flymake-compile)
   ;; Customize compile command to run go build
   (if (not (string-match "go" compile-command))
       (set (make-local-variable 'compile-command)
